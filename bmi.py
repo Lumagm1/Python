@@ -1,7 +1,7 @@
 # Write code below 💖
 
-mass = 88.4505
-height = 1.8796**2
+mass = 195
+height = 74**2
 
 bmi = mass/height
 
